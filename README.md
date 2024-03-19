@@ -2,7 +2,7 @@
 Esse projeto foi desenvolvido com intuito de aprimoramento do HTML, CSS e JS. 
 
 ## Layout 
-![read me-img]([https://github.com/millenasunara/Landing-Page-Pepsi/assets/148871283/21a0a1cd-d514-4312-9371-8bfc03c0319](https://github.com/millenasunara/Landing-Page-Mario-Bros/assets/148871283/f4a7a88a-d908-4f4f-bbca-356ea33e4f67)3)
+![read me-img](https://github.com/millenasunara/Landing-Page-Mario-Bros/assets/148871283/f4a7a88a-d908-4f4f-bbca-356ea33e4f67)
 
 # Tecnologias utilizadas
 - HTML / CSS / JS
