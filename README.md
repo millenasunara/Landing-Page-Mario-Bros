@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com intuito de aprimoramento do HTML, CSS e JS.
 
 Millena Sunara
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/millena-sunara-548334261/?original_referer=https%3A%2F%2Fbr%2Elinkedin%2Ecom%2F&originalSubdomain=br)https://www.linkedin.com/in/millena-sunara-548334261/?original_referer=https%3A%2F%2Fbr%2Elinkedin%2Ecom%2F&originalSubdomain=br![read me-img](https://github.com/millenasunara/Landing-Page-Mario-Bros/assets/148871283/a1dcb267-4480-41ab-9427-3dc849f9ce8f)
+(https://www.linkedin.com/in/millena-sunara-548334261/?original_referer=https%3A%2F%2Fbr%2Elinkedin%2Ecom%2F&originalSubdomain=br)
